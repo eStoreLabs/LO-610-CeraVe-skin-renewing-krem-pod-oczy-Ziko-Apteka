@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d8310fe-3a8d-4908-9461-fcb7be2fe4c0" name="Changes" comment="Fix cross sell link number">
+      <change beforePath="$PROJECT_DIR$/images/MVE.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/MVE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/benefits-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/benefits-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ceramidy.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/ceramidy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cross-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/cross-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cross-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/cross-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cross-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/cross-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/features-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/features-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hand.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/hand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kv-photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/kv-photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kv-texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/kv-texture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kwas.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/kwas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/logo-footer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-kv.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/logo-kv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/night-cream.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/night-cream.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pack.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/pack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/packs.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/packs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/refill.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/refill.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/retinol.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/retinol.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tick-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/tick-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tick-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/tick-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/use.png" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/images/use.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/style/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;esl-slawek&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:eStoreLabs/LO-610-CeraVe-skin-renewing-krem-pod-oczy-Ziko-Apteka.git",
+    "accountId": "b44c3362-b233-460b-b7ab-18e63867966b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="33rpQxlQtQmXBvitm3Uw2Xdlgrn" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/viataranushenko/Public/My Files/Workflow/Rich Contents/LO-610-CeraVe-skin-renewing-krem-pod-oczy-GENERIC/rich-content/CeraVe/skin-renewing-krem-pod-oczy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets" />
+      <recent name="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy/assets/style" />
+      <recent name="$PROJECT_DIR$/rich-content/CeraVe/skin-renewing-krem-pod-oczy" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8310fe-3a8d-4908-9461-fcb7be2fe4c0" name="Changes" comment="" />
+      <created>1760085032993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760085032993</updated>
+      <workItem from="1760085034408" duration="91000" />
+      <workItem from="1760092146561" duration="694000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix cross sell link number">
+      <option name="closed" value="true" />
+      <created>1760085115270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760085115270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix cross sell link number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix cross sell link number" />
+  </component>
+</project>
